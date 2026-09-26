@@ -1,0 +1,6 @@
+{
+  "name": "OneStep",
+  "description": "Resolution & Progress Tracking app breaking big resolutions into yearly, monthly, weekly, and daily actions with an AI coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
